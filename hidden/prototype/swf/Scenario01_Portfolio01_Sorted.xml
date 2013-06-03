@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<portfolio>
+	<entity name="Entity 21">
+		<fieldA>Dec-31-2011</fieldA>
+		<fieldB>1.7</fieldB>
+		<fieldC>669</fieldC>
+		<fieldD>992</fieldD>
+		<fieldE>53.7%</fieldE>
+		<fieldF>8,899</fieldF>
+		<fieldG>6,216</fieldG>
+		<fieldH>3,118</fieldH>
+	</entity>
+	<entity name="Entity 13">
+		<fieldA>Dec-31-2011</fieldA>
+		<fieldB>2.87</fieldB>
+		<fieldC>3,879</fieldC>
+		<fieldD>4,026</fieldD>
+		<fieldE>53.08%</fieldE>
+		<fieldF>69,224</fieldF>
+		<fieldG>45,786</fieldG>
+		<fieldH>26,511</fieldH>
+	</entity>
+	<entity name="Entity 14">
+		<fieldA>Dec-31-2011</fieldA>
+		<fieldB>.9</fieldB>
+		<fieldC>586</fieldC>
+		<fieldD>1,013</fieldD>
+		<fieldE>51.5%</fieldE>
+		<fieldF>6,184</fieldF>
+		<fieldG>4,314</fieldG>
+		<fieldH>1,982</fieldH>
+	</entity>
+	<entity name="Entity 30">
+		<fieldA>Dec-31-2011</fieldA>
+		<fieldB>2.1</fieldB>
+		<fieldC>944</fieldC>
+		<fieldD>678</fieldD>
+		<fieldE>39.1%</fieldE>
+		<fieldF>25,148</fieldF>
+		<fieldG>16,540</fieldG>
+		<fieldH>5,739</fieldH>
+	</entity>
+	<entity name="Entity 4">
+		<fieldA name="Statement Date">Dec-31-2011</fieldA>
+		<fieldB name="Operating Profit">1.07</fieldB>
+		<fieldC name="Net Income">9,193</fieldC>
+		<fieldD name="Operating EBIT">12,696</fieldD>
+		<fieldE name="Total Adj. Debt (%)">37.92%</fieldE>
+		<fieldF name="Total Assets">79,150</fieldF>
+		<fieldG name="Total Liabilities">46,306</fieldG>
+		<fieldH name="Total Adjusted Debt">20,065</fieldH>
+	</entity>
+	<entity name="Entity 26">
+		<fieldA>Aug-31-2012</fieldA>
+		<fieldB>.11</fieldB>
+		<fieldC>3,045</fieldC>
+		<fieldD>3,398</fieldD>
+		<fieldE>25.21%</fieldE>
+		<fieldF>20,224</fieldF>
+		<fieldG>8,188</fieldG>
+		<fieldH>4,058</fieldH>
+	</entity>
+</portfolio>

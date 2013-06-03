@@ -1,0 +1,1 @@
+#include "colors.inc"camera {	direction <0, 0, 1>	location <0, 3, -6>	look_at <0, 1, 0>	up <0, 1, 0>	right<4/3, 0, 0>}plane {	pigment {White}	finish {ambient 0.2 diffuse 0.8}}sphere { <0, 1, 0>, 1	pigment {Red}	finish {		ambient 0.15		diffuse 0.75		phong 1		phong_size 100	}}light_source {<100, 120, -140> colour White}

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SVG Arc Test</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  </head>
+  <body>
+    <svg>
+      <path d="M125,75 A100,50 0 0,0 225,125" />
+    </svg>
+  </body>
+</html>
